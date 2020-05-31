@@ -1,2 +1,2 @@
-# Code_client_server
-Enviar e receber dados (client/server)
+# Python 3 - Client / Server
+Enviar e receber dados
